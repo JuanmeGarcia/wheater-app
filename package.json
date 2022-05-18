@@ -1,0 +1,27 @@
+{
+  "name": "wheater-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanmeGarcia/wheater-app.git"
+  },
+  "keywords": [],
+  "author": "Garcia Carballo <jmgcasd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanmeGarcia/wheater-app/issues"
+  },
+  "homepage": "https://github.com/JuanmeGarcia/wheater-app#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "inquirer": "^8.2.4"
+  }
+}
